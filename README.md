@@ -2,8 +2,6 @@
 
 #Snake Game Using Javascript
 
-<img src="images/javasnake1.png" alt="image">
-
 A brief introduction of the game, the snake game is a simple game created using `HTML`, `CSS` and `Javascript`. The snake navigates the box trying to eat a fruit. Once the snake eats the fruit, the length of the snake increases and the pace becomes faster.
 Then the game ends if the snake slide into any part of its body or part of the box.
 
